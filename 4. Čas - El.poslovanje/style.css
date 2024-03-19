@@ -1,0 +1,112 @@
+/* p {
+
+    color:brown;
+    font-weight:800;
+    font-size: 20px;
+    
+} */
+
+/* .veliki-tekst{
+
+    color:rgb(100, 49, 12);
+    font-size: 21px;
+    background-color: aquamarine;
+}
+
+.podebljan-tekst{
+    font-weight: 1500;
+}
+
+#treciTekst{
+    background-color: black;
+    color:azure
+
+
+}
+
+.red-text{
+    color:brown;
+}
+
+div.red-text{
+    font-weight: 800;
+}
+
+ p, div {
+    background-color: bisque;
+        font-weight: 700;}
+   /* da selektujemo više elemenata  */ 
+
+/* ol li{  
+    color:cadetblue
+}
+
+li:hover{
+    color: orange
+}
+ kad prelazimo mišem preko elementa da mijenja boju */ 
+
+
+/* ------------------------------- loren ispum */
+
+
+
+
+/*.paragraf{
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        background-color: #D68910 ;
+        border-radius: 50px;
+        border:15px solid black;
+        box-shadow: 10px 10px 25px 0px #91dbde ;
+      }
+    
+      /* box shadow generator na guglu */
+
+/* 4. ČAS */
+p {
+
+    font-size: 1rem;
+}
+
+
+
+/* .container{
+    width: 500px;
+    height: 200px;
+    background-color: blue;
+}
+
+.inner-div{
+    width: 240px;
+    height: 100px;
+    background-color: lime;
+    margin: 10px;
+} */
+
+
+.p1 {
+
+    background-color: lightblue;
+    text-align: justify;
+    padding: 10px 20px 30px 40px ;
+    border: 3px solid black;
+    margin-bottom: 50px;
+   
+
+}
+
+.p2{
+
+    background-color: burlywood;
+    text-align: justify;
+    padding: 15px;
+    border: 12px groove blue;
+    border-radius: 10px;
+    
+}
+
+.slika-prirode {
+    width: 100px
+}
